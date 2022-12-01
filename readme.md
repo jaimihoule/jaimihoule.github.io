@@ -5,3 +5,4 @@ This is a website that I am making on vscode and posting to github pages. To pos
 
 2. On github in your folder go to add file/ upload files
 
+![screen shot of github pages](readme_images/vscodescreenshot.png)
